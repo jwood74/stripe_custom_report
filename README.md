@@ -14,6 +14,7 @@
 ### ToDo ###
 
 * Add different reports
+* Separate report for refunds, or exclde them and their associated charges?
 
 ### Who do I talk to? ###
 
