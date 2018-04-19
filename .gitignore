@@ -1,0 +1,7 @@
+#git ignore file
+/logs/*
+options.rb
+test.rb
+run.sh
+
+!/logs/text.txt
